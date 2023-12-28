@@ -1,6 +1,7 @@
 # Codeceptjs - Automação de Testes Web
 
-- 📌 Este projeto faz parte das aulas na Formação Agile Test Engineer na escola [E2ETreinamentos](https://e2etreinamentos.com.br/) e tem por objetivo ensinar aos alunos automatizar testes na camada web com o framework de testes CodeceptJS.
+- 📌 Este projeto faz parte do meu aprndizado na Formação Agile Test Engineer na escola [E2ETreinamentos](https://e2etreinamentos.com.br/)
+
 - 💻 Para os testes realizados usamos o site [http://teststore.automationtesting.co.uk/](http://teststore.automationtesting.co.uk/) , que é um e-commerce fictício.
 
 
