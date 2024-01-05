@@ -22,7 +22,7 @@ Os testes funcionais foram distribuidos nas seguintes suítes:
    |-----------------------------------------------|-------------|
    |CT01- deve realizar login com sucesso                |`'Positivo'` |
    |CT02- não deve realizar login com email inválido     |`'Negativo'` |
-   |CT03- não deve realizar login com sena inválida      |`'Negativo'` |
+   |CT03- não deve realizar login com senha inválida      |`'Negativo'` |
 
  
    
